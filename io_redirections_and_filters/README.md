@@ -1,6 +1,6 @@
-
-
-C
-C
-
-Hello my dear fri
+Hello
+I just 
+wanted
+to show you
+mercy
+thanks
