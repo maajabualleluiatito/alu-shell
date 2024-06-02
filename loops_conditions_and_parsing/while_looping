@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+#hhhhhhhh
+#fv aklfbvaklfv
+
+myvar=1
+
+while [ $myvar -le 10 ]
+do 
+  echo "Best school"
+done

@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+#I am training myself
+
+for i in {1..10}
+do
+  echo " $i:Best school" 
+done
