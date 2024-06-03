@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+# this script is going to display a given text continuously
+# use ctrl+c to stop the activity
+
+while true
+do 
+  echo "Hello world"
+  sleep 0.5
+done
